@@ -5,7 +5,8 @@
     "chefName": "Kaisarul",
     "yearsOfExperience": 10,
     "likes": 5000,
-    "numRecipes": 1
+    "numRecipes": 1,
+    "bio": "Kaisarul is a Bangladeshi chef and restaurateur. He is known for his fiery personality and his emphasis on using fresh, high-quality ingredients in his cooking. Kaisarul has received numerous awards for his skills, including Michelin stars for several of his restaurants."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "chefName": "Hedaet",
     "yearsOfExperience": 5,
     "likes": 3000,
-    "numRecipes": 2
+    "numRecipes": 2,
+    "bio": "Hedaet is a Bangladeshi chef, author, and television personality. he is best known for emphasis on using simple, fresh ingredients in his cooking. Hedaet has written several cookbooks and has won several Awards for his work in the industry."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "chefName": "Belayet",
     "yearsOfExperience": 15,
     "likes": 8000,
-    "numRecipes": 3
+    "numRecipes": 3,
+    "bio": "Belayet was a Bangladeshi chef, author, and television personality. He was known for his love of travel and exploration, and his emphasis on trying new and exotic foods. Belayet wrote several books and hosted several television shows, including No Reservations and Parts Unknown."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "chefName": "Sayem",
     "yearsOfExperience": 7,
     "likes": 2500,
-    "numRecipes": 4
+    "numRecipes": 4,
+    "bio": "Sayem was a Bangladeshi chef, author, and television personality. He is best known for bringing Bangladeshi cuisine to the American public through her cookbook, Mastering the Art of Bangladeshi Cooking, and his television show. Sayem won several Awards for his work in the industry."
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "chefName": "Mahbub",
     "yearsOfExperience": 12,
     "likes": 6000,
-    "numRecipes": 2
+    "numRecipes": 2,
+    "bio": "Mahbub is a Bangladeshi chef and restaurateur. Mahbub is known for his innovative approach to Bangladeshi cuisine, and his use of unusual ingredients and techniques in his cooking."
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "chefName": "Abdullahil",
     "yearsOfExperience": 8,
     "likes": 4000,
-    "numRecipes": 5
+    "numRecipes": 5,
+    "bio": "Abdullahil is a Bangladeshi chef, author, and activist. He is the owner of a restaurant in Bangladesh, that specializes in organic, locally sourced ingredients. Waters is a proponent of the Slow Food movement and has been a vocal advocate for sustainable agriculture and food education."
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "chefName": "Abidur",
     "yearsOfExperience": 20,
     "likes": 10000,
-    "numRecipes": 6
+    "numRecipes": 6,
+    "bio": "Abidur is a Bangladeshi chef and author. He is the owner of several restaurants in London, and has written several cookbooks. Ottolenghi is known for his creative approach to Middle Eastern cuisine, and his emphasis on using fresh, seasonal ingredients in his cooking."
   },
   {
     "id": 8,
@@ -61,6 +68,7 @@
     "chefName": "Tanvir",
     "yearsOfExperience": 4,
     "likes": 2000,
-    "numRecipes": 7
+    "numRecipes": 7,
+    "bio": "Abdullahil is a Bangladeshi chef, author, and activist. He is the owner of a restaurant in Bangladesh, that specializes in organic, locally sourced ingredients. Waters is a proponent of the Slow Food movement and has been a vocal advocate for sustainable agriculture and food education."
   }
 ]
